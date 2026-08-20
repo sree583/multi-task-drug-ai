@@ -1,0 +1,14 @@
+rdkit-pypi
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+joblib
+chembl-webresource-client
+torch
+fastapi
+uvicorn
+pydantic
+streamlit
+requests
